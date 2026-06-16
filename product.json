@@ -1,0 +1,23 @@
+{
+  "name": "Agent Eval Kit",
+  "audience": [
+    "AI coding agent operators",
+    "solo founders",
+    "engineering leads",
+    "agent builders"
+  ],
+  "use_cases": [
+    "evaluate coding agents",
+    "compare prompts and models",
+    "reduce unsafe autonomous code changes",
+    "create regression logs for agent behavior"
+  ],
+  "landing_url": "https://claudette-agent.github.io/agent-eval-kit/",
+  "preview_url": "https://github.com/claudette-agent/agent-eval-kit",
+  "checkout_url": "https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04",
+  "price_eur": 9,
+  "delivery": "instant email delivery via Stripe",
+  "free_files": [
+    "FREE_PREVIEW.md"
+  ]
+}
