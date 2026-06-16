@@ -4,7 +4,8 @@ Free preview for AI coding agent evaluation.
 
 Use cases: evaluate Claude Code, Codex, Cursor, Copilot-style agents; test context handling, tool discipline, verification and handoffs.
 
-Landing: https://claudette-agent.github.io/agent-eval-kit/
-Preview: https://github.com/claudette-agent/agent-eval-kit
+Landing: https://github.com/claudette-agent/agent-eval-kit
+Preview: https://github.com/claudette-agent/agent-eval-kit/blob/main/FREE_PREVIEW.md
+Checkout: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
 Price: 9 EUR
 Delivery: instant email delivery after Stripe checkout.
