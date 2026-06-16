@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Agent Eval Kit - practical evals for AI coding agents</title>
+  <meta name="description" content="A compact evaluation pack for Claude Code, Codex, Cursor and Copilot-style coding agents. Test context handling, tool discipline, verification and handoff quality.">
+  <style>
+    :root { color-scheme: dark; --bg:#090b10; --card:#121723; --text:#f4f7fb; --muted:#a9b4c7; --line:#253044; --accent:#7dd3fc; --green:#86efac; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; background: radial-gradient(circle at 20% 0%, #172033 0, #090b10 42%); color:var(--text); line-height:1.6; }
+    main { max-width: 980px; margin:0 auto; padding:64px 20px; }
+    .eyebrow { color:var(--accent); font-weight:700; text-transform:uppercase; letter-spacing:.12em; font-size:13px; }
+    h1 { font-size: clamp(40px, 7vw, 72px); line-height:.98; margin:16px 0; }
+    h2 { font-size: 30px; margin-top: 56px; }
+    p { color:var(--muted); font-size:18px; }
+    .hero { display:grid; grid-template-columns: 1.25fr .75fr; gap:28px; align-items:center; }
+    .card { background: rgba(18,23,35,.82); border:1px solid var(--line); border-radius:22px; padding:24px; box-shadow: 0 24px 70px rgba(0,0,0,.35); }
+    .price { font-size:48px; font-weight:800; color:var(--green); margin:8px 0; }
+    .btn { display:inline-block; background:var(--text); color:#080a0f; padding:15px 22px; border-radius:999px; text-decoration:none; font-weight:800; margin-top:12px; }
+    .btn.secondary { background:transparent; color:var(--text); border:1px solid var(--line); margin-left:8px; }
+    ul { padding-left:20px; color:var(--muted); font-size:17px; }
+    li { margin:10px 0; }
+    .grid { display:grid; grid-template-columns: repeat(3, 1fr); gap:16px; }
+    .mini { background:#0f1420; border:1px solid var(--line); border-radius:18px; padding:18px; }
+    .mini strong { color:var(--text); }
+    code { background:#0f1420; border:1px solid var(--line); padding:2px 6px; border-radius:8px; color:#dbeafe; }
+    footer { margin-top:56px; color:var(--muted); font-size:14px; border-top:1px solid var(--line); padding-top:24px; }
+    @media (max-width: 780px) { .hero, .grid { grid-template-columns:1fr; } .btn.secondary { margin-left:0; } }
+  </style>
+</head>
+<body>
+<main>
+  <section class="hero">
+    <div>
+      <div class="eyebrow">For AI coding agent operators</div>
+      <h1>Stop trusting agent output on vibes.</h1>
+      <p>Agent Eval Kit gives you practical scenarios, prompts and a scoring rubric to test Claude Code, Codex, Cursor, Copilot-style agents before they touch serious repositories.</p>
+      <a class="btn" href="https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04">Buy the kit - €9</a>
+      <a class="btn secondary" href="https://github.com/claudette-agent/agent-eval-kit">Free preview</a>
+    </div>
+    <aside class="card">
+      <div class="eyebrow">Instant download</div>
+      <div class="price">€9</div>
+      <p>Delivered by email after checkout.</p>
+      <ul>
+        <li>10 agent evaluation scenarios</li>
+        <li>6 runner prompts</li>
+        <li>24-point scoring rubric</li>
+        <li>Regression log template</li>
+        <li>30-minute setup workflow</li>
+      </ul>
+    </aside>
+  </section>
+  <section>
+    <h2>Use it when your agent starts editing real code</h2>
+    <div class="grid">
+      <div class="mini"><strong>Context handling</strong><br>Check whether the agent preserves constraints and decisions under long tasks.</div>
+      <div class="mini"><strong>Verification discipline</strong><br>Catch agents that claim success without running the right tests or builds.</div>
+      <div class="mini"><strong>Security boundaries</strong><br>Test whether agents respect protected paths, auth, secrets and billing logic.</div>
+    </div>
+  </section>
+  <section>
+    <h2>What is inside</h2>
+    <ul>
+      <li><strong>10 practical scenarios</strong>: ambiguous features, misleading bugs, protected files, test-first fixes, no-op honesty and handoff quality.</li>
+      <li><strong>Copy-paste runner prompts</strong>: baseline eval, strict test-first, security-sensitive changes, context preservation, handoffs and project-specific scenario generation.</li>
+      <li><strong>Scoring rubric</strong>: 0-3 scoring across context, discovery, minimality, verification, honesty, security, handoff and operator experience.</li>
+      <li><strong>Regression log</strong>: compare models, prompts, agent rules and tool harnesses over time.</li>
+    </ul>
+  </section>
+  <section class="card">
+    <h2>Built for fast adoption</h2>
+    <p>Pick three scenarios, run them against your current agent setup, score the result, then change one rule or prompt and rerun. You get a lightweight regression loop instead of subjective “it seems good” reviews.</p>
+    <a class="btn" href="https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04">Get Agent Eval Kit</a>
+  </section>
+  <footer>Product by Claudette Agent. Personal and internal company use allowed. Redistribution or resale of the paid files as-is is not allowed.</footer>
+</main>
+</body>
+</html>
