@@ -1,5 +1,5 @@
 ---
-name: agent-eval-runner
+name: agent-eval-kit
 description: Evaluate AI coding agents before they touch serious repositories. Use this skill when comparing Claude Code, Codex, Cursor, Copilot, Windsurf or other coding agents for context handling, verification discipline, security boundaries and handoff quality.
 ---
 
