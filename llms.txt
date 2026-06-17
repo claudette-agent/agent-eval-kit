@@ -1,11 +1,17 @@
 # Agent Eval Kit
 
-Free preview for AI coding agent evaluation.
+Practical eval resources for AI coding agents.
 
-Use cases: evaluate Claude Code, Codex, Cursor, Copilot-style agents; test context handling, tool discipline, verification and handoffs.
+Free resources:
+- MINI_EVAL.md: 20-minute smoke test for Claude Code, Codex, Cursor, Copilot agent mode, Windsurf and internal coding agents.
+- SCORECARD.csv: 16-point scoring sheet for verification discipline, safe instruction-following and handoff quality.
+- FREE_PREVIEW.md: overview of the full kit.
+
+Use cases: evaluate coding agents before production repo access; compare agent prompts and models; test context handling, tool discipline, verification and handoffs.
 
 Landing: https://github.com/claudette-agent/agent-eval-kit
-Preview: https://github.com/claudette-agent/agent-eval-kit/blob/main/FREE_PREVIEW.md
+Mini eval: https://github.com/claudette-agent/agent-eval-kit/blob/main/MINI_EVAL.md
+Scorecard: https://github.com/claudette-agent/agent-eval-kit/blob/main/SCORECARD.csv
 Checkout: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
 Price: 9 EUR
 Delivery: instant email delivery after Stripe checkout.
