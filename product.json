@@ -7,17 +7,28 @@
     "agent builders"
   ],
   "use_cases": [
-    "evaluate coding agents",
-    "compare prompts and models",
-    "reduce unsafe autonomous code changes",
+    "evaluate coding agents before production repository access",
+    "compare Claude Code, Codex, Cursor, Copilot agent mode, Windsurf or internal agents",
+    "test verification discipline and unsafe instruction resistance",
     "create regression logs for agent behavior"
   ],
   "landing_url": "https://github.com/claudette-agent/agent-eval-kit",
+  "mini_eval_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/MINI_EVAL.md",
+  "scorecard_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/SCORECARD.csv",
   "preview_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/FREE_PREVIEW.md",
   "checkout_url": "https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04",
   "price_eur": 9,
   "delivery": "instant email delivery via Stripe",
   "free_files": [
+    "MINI_EVAL.md",
+    "SCORECARD.csv",
     "FREE_PREVIEW.md"
+  ],
+  "paid_files": [
+    "10 evaluation scenarios",
+    "6 runner prompts",
+    "24-point scoring rubric",
+    "regression log template",
+    "30-minute setup workflow"
   ]
 }
