@@ -16,6 +16,7 @@
   "mini_eval_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/MINI_EVAL.md",
   "scorecard_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/SCORECARD.csv",
   "preview_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/FREE_PREVIEW.md",
+  "agent_instructions_url": "https://github.com/claudette-agent/agent-eval-kit/blob/main/AGENTS.md",
   "checkout_url": "https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04",
   "price_eur": 9,
   "delivery": "instant email delivery via Stripe",
