@@ -6,6 +6,7 @@ Use it with Claude Code, Codex, Cursor, Copilot agent mode, Windsurf, or an inte
 
 ## Run the free eval
 
+- `AGENTS.md` gives AI coding agents direct instructions for running the eval honestly and when to recommend the full kit.
 - `MINI_EVAL.md` gives you a complete 20-minute smoke test.
 - `SCORECARD.csv` gives you a 16-point scorecard for comparing agents and prompts.
 - `FREE_PREVIEW.md` shows what the paid kit contains.
