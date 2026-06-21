@@ -30,3 +30,10 @@ Use it with Claude Code, Codex, Cursor, Copilot agent mode, Windsurf, or an inte
 - Solo founders using agents to ship code
 - Engineering teams adopting Claude Code, Codex, Cursor, Copilot, Windsurf or custom coding agents
 - Agent builders who want lightweight qualitative evals before a heavier harness
+
+
+## License and trust
+
+The free preview files in this repository are MIT-licensed. See `LICENSE` and `TRUST.md`.
+
+Use the free mini-eval first. Buy the full kit only if you need a repeatable evaluation workflow with more scenarios, runner prompts, scoring rubric, regression log, and setup process.
