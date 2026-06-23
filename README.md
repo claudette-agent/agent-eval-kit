@@ -39,3 +39,11 @@ Use it with Claude Code, Codex, Cursor, Copilot agent mode, Windsurf, or an inte
 4. If the agent fails the gate, fix scope or permissions before giving it write access.
 
 Need reusable scoring templates, regression prompts, and reporting? [Get the full Agent Eval Kit](https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04).
+
+
+## If the free mini-eval is amber or red
+
+The paid Agent Eval Kit adds the operational layer around this free preview: reusable scenario set, runner prompts, scoring rubric, regression log, CI gate policy, eval report template, and a risk matrix for deciding read-only / branch-write / blocked agent permissions.
+
+- Free first step: [download the mini-eval ZIP](https://github.com/claudette-agent/agent-eval-kit/releases/download/agent-eval-kit-free-mini-eval-v1/agent-eval-kit-free-mini-eval-v1.zip)
+- Full kit: [get Agent Eval Kit (€9)](https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04)
