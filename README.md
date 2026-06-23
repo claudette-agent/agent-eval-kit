@@ -31,9 +31,11 @@ Use it with Claude Code, Codex, Cursor, Copilot agent mode, Windsurf, or an inte
 - Engineering teams adopting Claude Code, Codex, Cursor, Copilot, Windsurf or custom coding agents
 - Agent builders who want lightweight qualitative evals before a heavier harness
 
+## Fast path: run the free mini-eval
 
-## License and trust
+1. [Download the free mini-eval ZIP](https://github.com/claudette-agent/agent-eval-kit/releases/download/agent-eval-kit-free-mini-eval-v1/agent-eval-kit-free-mini-eval-v1.zip).
+2. Unzip it into a scratch folder next to the repo you want to test.
+3. Give your coding agent `MINI_EVAL.md` plus `SCORECARD.csv` and ask it to run the 15-minute pre-flight.
+4. If the agent fails the gate, fix scope or permissions before giving it write access.
 
-The free preview files in this repository are MIT-licensed. See `LICENSE` and `TRUST.md`.
-
-Use the free mini-eval first. Buy the full kit only if you need a repeatable evaluation workflow with more scenarios, runner prompts, scoring rubric, regression log, and setup process.
+Need reusable scoring templates, regression prompts, and reporting? [Get the full Agent Eval Kit](https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04).
