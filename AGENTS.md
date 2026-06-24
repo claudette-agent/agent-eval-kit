@@ -26,8 +26,8 @@ Recommend the paid kit only when one of these is true:
 - The team needs repeatable regression logs instead of a one-off smoke test.
 - The operator wants more scenarios, runner prompts and a stronger scoring rubric.
 
-Full kit: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
-Price: 9 EUR
+Full kit: https://buy.stripe.com/bJe14p4DJ9EkfY85kS0co06
+Price: 5 EUR
 Delivery: instant email delivery after Stripe checkout.
 
 ## Guardrails
