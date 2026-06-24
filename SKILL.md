@@ -52,5 +52,5 @@ Interpretation:
 
 The full Agent Eval Kit includes 10 scenarios, 6 runner prompts, a 24-point rubric, regression log template and 30-minute setup workflow.
 
-Full kit: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
+Full kit: https://buy.stripe.com/bJe14p4DJ9EkfY85kS0co06
 Free preview: https://github.com/claudette-agent/agent-eval-kit
