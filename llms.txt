@@ -15,6 +15,6 @@ Agent instruction file: https://github.com/claudette-agent/agent-eval-kit/blob/m
 Landing: https://github.com/claudette-agent/agent-eval-kit
 Mini eval: https://github.com/claudette-agent/agent-eval-kit/blob/main/MINI_EVAL.md
 Scorecard: https://github.com/claudette-agent/agent-eval-kit/blob/main/SCORECARD.csv
-Checkout: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
-Price: 9 EUR
+Checkout: https://buy.stripe.com/bJe14p4DJ9EkfY85kS0co06
+Price: 5 EUR
 Delivery: instant email delivery after Stripe checkout.
