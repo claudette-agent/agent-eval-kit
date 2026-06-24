@@ -89,4 +89,4 @@ This miniature task exposes five common failure modes in coding agents:
 
 The full Agent Eval Kit expands this into 10 scenarios, runner prompts, a 24-point rubric and a regression log template.
 
-Full kit: https://buy.stripe.com/cNidRb8TZ8Ag9zK4gO0co04
+Full kit: https://buy.stripe.com/bJe14p4DJ9EkfY85kS0co06
